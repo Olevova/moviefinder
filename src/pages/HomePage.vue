@@ -25,7 +25,7 @@ import SearchMovie from "../components/SearchMovie.vue";
   border-radius: 6px;
 }
 
-title {
+.title {
   color: rgba(0, 128, 128, 0.2);
   position: absolute;
   left: 30px;
